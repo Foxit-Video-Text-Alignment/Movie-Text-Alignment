@@ -6,3 +6,4 @@
 - [Aligning plot synopses to videos for story-based retrieval](http://www.cs.toronto.edu/~makarand/papers/IJMIR_plot-retrieval.pdf) `Tapaswi et al` `IJMIR 2015`
 - [StoryGraphs: Visualizing Character Interactions as a Timeline](http://www.cs.toronto.edu/~makarand/papers/CVPR2014.pdf) `Tapaswi et al` `CVPR 2014`
 - [TVQA: Localized, Compositional Video Question Answering](https://arxiv.org/pdf/1809.01696.pdf) `Lei et al` `EMNLP 2018`
+- [A dataset and exploration of models for understanding video data through fill-in-the-blank question-answering](https://arxiv.org/pdf/1611.07810.pdf) `Tegan Maharaj` `2017 CVPR`
